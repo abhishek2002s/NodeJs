@@ -1,0 +1,17 @@
+// Topics:
+
+//Introduction to Node-js
+//Installations Node.js and npm
+
+// node - it is a runtime environment
+//npm - its is a package store mean use third party code
+
+//working with node & npm
+//npm init -> package.json -> lekha jokha of the project
+
+//node basic usage 
+//Working with modules
+
+//file system operations.
+//understanding HTTP module
+
