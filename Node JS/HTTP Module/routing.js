@@ -14,10 +14,11 @@ const server = http.createServer(function(req,res){
         res.end("Hello form contact side");
     }
     else{
-        res.end("404 Error Page . Page does nto exist");
+        res.writeHead(404);
+        res.end("<h1> 404 Error Page . Page does nto exist </h1>");
     }
 
-})
+});
 
 server.listen(3000,"127.0.0.1",function(){
     console.log("listening to the port no 8000");
