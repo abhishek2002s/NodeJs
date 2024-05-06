@@ -1,0 +1,26 @@
+//initiliase a npm pakage
+//express install
+
+//what we learn in this session
+
+//setting up parser
+
+
+//setting up ejs for ejs pages
+install ejs from npm
+setup ejs as a view engine 
+
+//setting up public statis files
+
+//dynamic routing - hum log kai baar kuch route dekhte  hai unmein sirf ek hi hissa change hota hai 
+/author/harsh
+/author/harshita
+/author/harshika
+
+sabse pahle browser par jaao
+url likhiye apna jo aapko chiye and enter dabaaiye
+ab us url route ko cretae kriye
+
+ab usi url ko agr dynamic bnana hai toh realise kro konsa prt dynamic hai aur us part ke aage route me column lga do
+
+//how to get data coming from frontend at backend route
